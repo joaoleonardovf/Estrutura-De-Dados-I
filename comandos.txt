@@ -1,0 +1,5 @@
+// compilar
+    g++  main.cpp insertion_sort.cpp selection_sort.cpp -o sort
+
+// executar um caso
+    ./instancias-num/num.100000.1.in 
