@@ -1,0 +1,8 @@
+# Compilar o programa
+    g++ main.cpp listaSeq.cpp -o executavel
+
+# Executar o programa
+    ./executavel
+
+# Limpar o arquivo executável (se necessário)
+    rm executavel
