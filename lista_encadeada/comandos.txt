@@ -1,0 +1,8 @@
+# Compilar o programa
+    g++ main.cpp listaEncad.cpp -o execut
+
+# Executar o programa
+    ./execut
+
+# Limpar o arquivo executável (se necessário)
+    rm execut
