@@ -1,0 +1,8 @@
+# Compilar o programa
+    g++ main.cpp fila.cpp -o filaexec
+
+# Executar o programa
+    ./filaexec
+
+# Limpar o arquivo executável (se necessário)
+    rm filaexec
