@@ -1,0 +1,5 @@
+// compilar
+    g++ main.c -o grafo 
+
+// executar um caso
+    ./instancias_grafo/pcv10.txt
